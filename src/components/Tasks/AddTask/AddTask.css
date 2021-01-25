@@ -1,0 +1,44 @@
+.form-container {
+    margin-top: 6px;
+    margin-bottom: 8px;
+    width: 100%;
+}
+
+
+.form-for-task {
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    background: #fff;
+    align-self: stretch;
+    height: 5rem;
+    margin-bottom: 6px;
+    padding: 4px;
+    text-align: left;
+    resize: none;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: 14px;
+}
+
+.button-container {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+.add-task-btn {
+    border: none;
+    background: lightgreen;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.close-add-task {
+    padding: 10px 8px;
+    background-color: #d7d8db;
+    font-size: 1.4rem;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.card-list {
+    border-radius: 4x;
+    background: rgb(235, 236, 240);
+    padding: 2px 8px 1px;
+    margin: 0px 6px;
+    margin-top: 20px;
+    width: 256px;
+}
+
+.tasksList {
+    margin: 5px 0px;
+}

@@ -1,0 +1,7 @@
+.main-app {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
+}
+
