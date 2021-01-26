@@ -5,3 +5,12 @@
     flex-shrink: 0;
 }
 
+/* Mobiles */
+
+@media (max-width: 641px) {
+  
+    .main-app {
+        flex-flow: column nowrap;
+    }
+  
+}

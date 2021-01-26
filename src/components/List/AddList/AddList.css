@@ -5,3 +5,13 @@
     margin-top: 20px;
     width: 256px;
 }
+
+/* Mobiles */
+
+@media (max-width: 641px) {
+  
+    .add-new-list-container {
+        width: 97%;
+    }
+  
+}

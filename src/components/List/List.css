@@ -10,3 +10,13 @@
 .tasksList {
     margin: 5px 0px;
 }
+
+/* Mobiles */
+
+@media (max-width: 641px) {
+  
+    .card-list {
+        width: 97%;
+    }
+  
+}

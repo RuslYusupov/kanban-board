@@ -10,19 +10,19 @@ export const appData = {
       },
       'task-2': {
         id: 'task-2',
-        title: 'Yoga and Gym'
+        title: 'Watch soccer news'
       },
       'task-3': {
         id: 'task-3',
-        title: 'Walk the dog '
+        title: 'Buy stocks '
       },
       'task-4': {
         id: 'task-4',
-        title: 'Cook lunch and dinner'
+        title: 'Cook mexican food'
       },
       'task-5': {
         id: 'task-5',
-        title: 'Organize Sushi '
+        title: 'Organize Pizza '
       }
     },
     lists: {
